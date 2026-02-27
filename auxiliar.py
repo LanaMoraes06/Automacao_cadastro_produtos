@@ -1,0 +1,8 @@
+import time 
+import pyautogui
+
+time.sleep(5)
+print(pyautogui.position())
+#MOLO000251,Logitech,Mouse,1,25.95,6.50,
+#MOLO000192,Logitech,Mouse,2,19.95,5.00,
+#CAHA000251,Hashtag,Camisa,1,25.00,11.00,
