@@ -42,5 +42,3 @@ Atualize os valores de click() dentro do codigo.py com as suas novas coordenadas
 
 Execute o codigo.py e deixe o robô trabalhar.
 
-```bash
-pip install pyautogui pandas
